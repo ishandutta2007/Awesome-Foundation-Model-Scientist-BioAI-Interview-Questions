@@ -1,11 +1,15 @@
 # Foundation-Model Scientist (BioAI) Interview Questions 🧬🔬
 
+<p align="center">
+  <img src="assets/banner.svg" alt="BioAI Interview Questions Banner">
+</p>
+
 A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for **Foundation Model Scientist / Research Scientist roles building large-scale AI models for biology** — protein language models, genomic sequence models, single-cell foundation models, and multimodal bio-AI systems.
 
 This is not a list of trivia. Every question includes:
-- **Why interviewers ask it**
-- **A model answer or framework**
-- **Follow-up questions** interviewers commonly use to probe deeper
+- 🎯 **Why interviewers ask it**
+- 💡 **A model answer or framework**
+- 🔍 **Follow-up questions** interviewers commonly use to probe deeper
 
 > 🌱 This is v1. Contributions, corrections, and new questions are very welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -32,12 +36,12 @@ Also see: [resources.md](resources.md) for external reading, key papers, and com
 
 ## 🧭 How to Use This Repo
 
-- **Coming from a general ML/deep learning research background moving into BioAI?** Prioritize sections 1, 2, and 5 first — you'll need to build fluency in what's actually different about biological sequence/structure data compared to text or images.
-- **Coming from a computational biology/bioinformatics background moving into foundation model research?** Prioritize sections 3, 4, and 6 — the goal is building rigor in self-supervised learning theory, scaling behavior, and modern evaluation methodology.
-- **Interviewing at a company/lab building protein language models specifically?** Focus heavily on sections 2 and 4.
-- **Interviewing at a company/lab building single-cell or multi-omics foundation models?** Focus heavily on section 5.
-- **Interviewing at an organization with a strong publication/open-research culture?** Expect more emphasis on section 7.
-- **Interviewing at an applied/product-focused BioAI team?** Expect more emphasis on section 4 and section 8 — practical evaluation and cross-functional collaboration matter more than novel architecture research in these settings.
+- 🚀 **Coming from a general ML/deep learning research background moving into BioAI?** Prioritize sections 1, 2, and 5 first — you'll need to build fluency in what's actually different about biological sequence/structure data compared to text or images.
+- 🧬 **Coming from a computational biology/bioinformatics background moving into foundation model research?** Prioritize sections 3, 4, and 6 — the goal is building rigor in self-supervised learning theory, scaling behavior, and modern evaluation methodology.
+- 🧪 **Interviewing at a company/lab building protein language models specifically?** Focus heavily on sections 2 and 4.
+- 🔬 **Interviewing at a company/lab building single-cell or multi-omics foundation models?** Focus heavily on section 5.
+- 📖 **Interviewing at an organization with a strong publication/open-research culture?** Expect more emphasis on section 7.
+- 💼 **Interviewing at an applied/product-focused BioAI team?** Expect more emphasis on section 4 and section 8 — practical evaluation and cross-functional collaboration matter more than novel architecture research in these settings.
 
 Each question is tagged with a rough difficulty and role-level indicator:
 - 🟢 New-grad/PhD-entry · 🟡 Mid-level Research Scientist · 🔴 Senior/Staff Research Scientist

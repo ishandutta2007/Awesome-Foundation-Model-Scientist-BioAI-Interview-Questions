@@ -1,8 +1,17 @@
 # Foundation-Model Scientist (BioAI) Interview Questions 🧬🔬
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions" alt="Pull Requests"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions" alt="License"/></a>
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="BioAI Interview Questions Banner">
 </p>
+
+*The ultimate SEO-optimized guide and repository for Foundation Model Scientist, BioAI, and Machine Learning in Biology interview preparation. Master your BioAI interviews with our comprehensive Q&A collection!*
 
 A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for **Foundation Model Scientist / Research Scientist roles building large-scale AI models for biology** — protein language models, genomic sequence models, single-cell foundation models, and multimodal bio-AI systems.
 

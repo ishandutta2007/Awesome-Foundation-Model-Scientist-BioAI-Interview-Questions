@@ -4,7 +4,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions" alt="Pull Requests"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Foundation-Model-Scientist-BioAI-Interview-Questions" alt="License"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 <p align="center">
